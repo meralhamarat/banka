@@ -47,6 +47,7 @@
 .yan_menu li:hover {
   background-color: var(--garanti-teal);
   transform: translateX(5px);
+  box-shadow: 0 4px 8px rgba(0, 156, 196, 0.3); /* Yeni eklendi */
 }
 
 .yan_menu li a {
